@@ -1,0 +1,26 @@
+.header {
+    padding-top: 100px;
+	color: rgb(23, 93, 243);
+    text-align: center;
+}
+
+span {
+    background-color: rgb(187, 187, 187);
+}
+
+.image-container {
+	display: flex;
+	justify-content: center;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pic {
+	width: 300px;
+    height: auto;
+    padding: 20px;
+}
